@@ -1,0 +1,46 @@
+{
+    "bad": [
+        "EMPEROR",
+        "BOBA FETT",
+        "JANGO FETT",
+        "COUNT DOOKU",
+        "NUTE GUNRAY",
+        "POGGLE",
+        "SUN RIT"
+    ],
+
+    "good": [
+        "R2-D2",
+        "CAPTAIN TYPHO",
+        "MACE WINDU",
+        "YODA",
+        "JAR JAR",
+        "OBI-WAN",
+        "ANAKIN",
+        "PADME",
+        "C-3PO",
+        "KI-ADI-MUNDI",
+        "BAIL ORGANA",
+        "PLO KOON",
+        "SIO BIBBLE",
+        "BERU"
+    ],
+
+    "neutral": [
+        "LAMA SU",
+        "WATTO",
+        "CLIEGG",
+        "OWEN",
+        "SENATOR ASK AAK",
+        "SHMI",
+        "ORN FREE TAA",
+        "SOLA",
+        "JOBAL",
+        "RUWEE",
+        "TAUN WE"
+    ],
+    
+    "remove": [
+        "PK-4"
+    ]
+}

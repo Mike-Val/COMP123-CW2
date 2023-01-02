@@ -1,0 +1,49 @@
+{
+    "bad": [
+        "DOFINE",
+        "RUNE",
+        "TEY HOW",
+        "EMPEROR",
+        "DARTH MAUL",
+        "JABBA",
+        "NUTE GUNRAY",
+        "GREEDO"
+    ],
+    "good": [
+        "R2-D2",
+        "QUI-GON",
+        "OBI-WAN",
+        "CAPTAIN PANAKA",
+        "SIO BIBBLE",
+        "JAR JAR",
+        "TARPALS",
+        "PADME",
+        "RIC OLIE",
+        "ANAKIN",
+        "C-3PO",
+        "VALORUM",
+        "MACE WINDU",
+        "KI-ADI-MUNDI",
+        "YODA",
+        "RABE",
+        "BAIL ORGANA",
+        "GENERAL CEEL",
+        "BOSS NASS",
+        "BRAVO TWO",
+        "BRAVO THREE"
+    ],
+    "neutral": [
+        "TC-14",
+        "WATTO",
+        "SEBULBA",
+        "JIRA",
+        "SHMI",
+        "KITSTER",
+        "WALD",
+        "FODE/BEED"
+    ],
+    
+    "remove": [
+        "PK-4"
+    ]
+}

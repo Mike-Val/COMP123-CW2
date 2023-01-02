@@ -1,0 +1,31 @@
+{
+    "good": [
+        "R2-D2",
+        "CHEWBACCA",
+        "LUKE",
+        "HAN",
+        "LEIA",
+        "C-3PO",
+        "OBI-WAN",
+        "YODA",
+        "RIEEKAN",
+        "WEDGE",
+        "JANSON",
+        "DERLIN",
+        "ZEV",
+        "DACK"
+    ],
+
+    "bad": [
+        "DARTH VADER",
+        "EMPEROR",
+        "OZZEL",
+        "PIETT",
+        "NEEDA",
+        "BOBA FETT"
+    ],
+    
+    "neutral": [
+        "LANDO"
+    ]
+}

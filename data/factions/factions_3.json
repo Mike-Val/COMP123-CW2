@@ -1,0 +1,35 @@
+{
+    "good": [
+        "R2-D2",
+        "ANAKIN",
+        "OBI-WAN",
+        "BAIL ORGANA",
+        "C-3PO",
+        "PADME",
+        "YODA",
+        "MACE WINDU",
+        "JAR JAR",
+        "QUI-GON",
+        "PLO KOON",
+        "CAPTAIN ANTILLES",
+        "CAPTAIN TYPHO",
+        "TION MEDON"
+    ],
+    
+    "bad": [
+        "GENERAL GRIEVOUS",
+        "EMPEROR",
+        "COUNT DOOKU",
+        "NUTE GUNRAY",
+        "DARTH VADER"
+    ],
+    
+    "neutral": [
+        "CLONE COMMANDER GREE",
+        "CLONE COMMANDER CODY",
+        "ODD BALL",
+        "FANG ZAR",
+        "MON MOTHMA",
+        "GIDDEAN DANU"
+    ]
+}
